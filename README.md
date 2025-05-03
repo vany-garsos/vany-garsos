@@ -1,5 +1,5 @@
 ## Hola, soy Silvany ✌🏻
-#### Estudiante de Ingeniería en Desarrollo y Gestión de Software
+
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFwZHV5a2pyMHE3NGxqY3JlNTQ0MTlpdTJuaDUxMDUyNWtiOXdoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
 </div>
